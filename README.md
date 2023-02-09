@@ -28,10 +28,11 @@ Our target - build ML model which can predict will client leave bank or no.
 <li>Exited — факт ухода клиента</li>
 </p>
 
-<h3><b>Work plan!</b></h3>
-1) import
-2) EDA
-3) preparing data for modeling
-4) modeling
-5) 
+<h3><b>Work plan</b></h3>
+<ol>
+<li>Import libraries and datasets</li>
+<li>EDA</li>
+<li>Preparing data for modeling</li>
+<li>Modeling</li>
+</ol>
 
