@@ -1,4 +1,4 @@
-<b>Hey there for everyone!</b>
+<h3><b>Hey there for everyone!</b></h3>
 
 My name is <b>Vasyukhin Artem</b> and Im glad to see you in my GH repository of <b>"Supervised learning"</b> ML-project!
 
@@ -27,3 +27,11 @@ Our target - build ML model which can predict will client leave bank or no.
 <p>
 <li>Exited — факт ухода клиента</li>
 </p>
+
+<h3><b>Work plan!</b></h3>
+1) import
+2) EDA
+3) preparing data for modeling
+4) modeling
+5) 
+
