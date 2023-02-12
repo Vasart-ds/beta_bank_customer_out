@@ -6,7 +6,7 @@ Today we gonna look at client database of "Beta-bank" for check the reason why p
 
 Our target - build ML model which can predict will client leave bank or no.
 
-<b>Features</b>
+<b>Features (</b>
 <p>
 <li>RowNumber — индекс строки в данных</li>
 <li>CustomerId — уникальный идентификатор клиента</li>
