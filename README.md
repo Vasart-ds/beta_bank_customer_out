@@ -8,19 +8,19 @@ Our target - build ML model which can predict will client leave bank or no.
 
 <b>Features (</b>
 <p>
-<li>RowNumber — индекс строки в данных</li>
-<li>CustomerId — уникальный идентификатор клиента</li>
-<li>Surname — фамилия</li>
-<li>CreditScore — кредитный рейтинг</li>
-<li>Geography — страна проживания</li>
-<li>Gender — пол</li>
-<li>Age — возраст</li>
-<li>Tenure — сколько лет человек является клиентом банка</li>
-<li>Balance — баланс на счёте</li>
-<li>NumOfProducts — количество продуктов банка, используемых клиентом</li>
-<li>HasCrCard — наличие кредитной карты</li>
-<li>IsActiveMember — активность клиента</li>
-<li>EstimatedSalary — предполагаемая зарплата</li>
+<li>RowNumber — row index</li>
+<li>CustomerId — unique client ID</li>
+<li>Surname</li>
+<li>CreditScore</li>
+<li>Geography — living country</li>
+<li>Gender</li>
+<li>Age</li>
+<li>Tenure — period of being client</li>
+<li>Balance</li>
+<li>NumOfProducts — number of products per client</li>
+<li>HasCrCard — credit card own</li>
+<li>IsActiveMember — activity</li>
+<li>EstimatedSalary</li>
 </p>
 
 <b>Target</b>
