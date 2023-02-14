@@ -36,3 +36,18 @@ Our target - build ML model which can predict will client leave bank or no.
 <li>Modeling</li>
 </ol>
 
+<h3><b>RESULTS</b></h3>
+<p>
+In the course of work we:
+<ul>
+<li>processed dataset, which applied to construct for construct ML-models;</li>
+<li>teached models on the balanced and unbalanced samples;</li>
+<li>proved what model, teached on balanced sample, have higher f-score than unbalanced;</li>
+<li>created graphic of ROC-curve and calculate AUC-score. </li>
+</ul>
+</p>
+
+<p>
+Total result of ROC-curve prooves what balanced upscaled model of Random Forest is better than balanced model without scaling: 0.864 against 0.854.
+</p
+
