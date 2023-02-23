@@ -6,7 +6,7 @@ Today we gonna look at client database of "Beta-bank" for check the reason why p
 
 Our target - build ML model which can predict will client leave bank or no.
 
-<b>Features (</b>
+<b>Features:</b>
 <p>
 <li>RowNumber — row index</li>
 <li>CustomerId — unique client ID</li>
@@ -23,7 +23,7 @@ Our target - build ML model which can predict will client leave bank or no.
 <li>EstimatedSalary</li>
 </p>
 
-<b>Target</b>
+<b>Target:</b>
 <p>
 <li>Exited — факт ухода клиента</li>
 </p>
